@@ -1,4 +1,4 @@
-<video src="https://github.com/MaricaBdev/Tesla-Landing-Page/assets/112977942/458611fb-4c2a-4514-b68f-c7cac794f19b"/>
+<video src="https://github.com/MaricaBdev/Tesla-Landing-Page/assets/112977942/458611fb-4c2a-4514-b68f-c7cac794f19b"></video>
 
 
 # Tesla Landing Page
