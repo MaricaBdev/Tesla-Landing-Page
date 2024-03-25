@@ -1,8 +1,8 @@
-https://github.com/MaricaBdev/Tesla-Landing-Page/assets/112977942/458611fb-4c2a-4514-b68f-c7cac794f19b
+<video src="https://github.com/MaricaBdev/Tesla-Landing-Page/assets/112977942/458611fb-4c2a-4514-b68f-c7cac794f19b"/>
 
 
 # Tesla Landing Page
-<img src="https://en.wikipedia.org/wiki/React_%28software%29#/media/File:React_Logo_SVG.svg" alt="Logo" width="30" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" alt="Logo" width="30" >
 
 Tesla is a simple landing page made in just 20-30 minutes (maybe more on finding resources).
 
