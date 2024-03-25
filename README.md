@@ -1,8 +1,44 @@
-# React + Vite
+https://github.com/MaricaBdev/Tesla-Landing-Page/assets/112977942/458611fb-4c2a-4514-b68f-c7cac794f19b
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Tesla Landing Page
+<img src="https://en.wikipedia.org/wiki/React_%28software%29#/media/File:React_Logo_SVG.svg" alt="Logo" width="30" >
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tesla is a simple landing page made in just 20-30 minutes (maybe more on finding resources).
+
+
+## Demo
+
+<a href="https://monster-slayer-mb.netlify.app">View Demo</a>
+
+
+## Features
+
+-Responsive
+-Basic Slider from 3 images to video
+
+
+
+
+<hr>
+
+![Logo](https://i.ibb.co/pR7gZ09/Captur-de-ecran-din-2024-02-23-la-20-30-03.png)
+
+
+
+# Monster Killer
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo" width="30" >
+
+Monster Killer is a RPG like game made with JavaScript.
+
+
+## Demo
+
+<a href="https://tesla-landing-page-lake.vercel.app">View Demo</a>
+
+
+## Features
+
+- RPG like game
+- BattleLog
+
